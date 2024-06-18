@@ -5,7 +5,7 @@ Despite these adjustments, I consider the results valid and suitable for use.
 
 ### Scripts
 
-- `./organize_chaosorca_results.py` : creates better csv files.
+- `./organize_chaosorca_results.py` : creates csv files that can be used to generate charts.
 - `./select_delay_1s.py` : delay injection on select().
 - `./select_syscalls.py` : select() impact on other syscalls.
 - `./errors_injection_latency.py` : charts with error injections on all syscalls.
